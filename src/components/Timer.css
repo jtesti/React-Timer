@@ -1,0 +1,21 @@
+
+
+.timer-card {
+    position: absolute;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 325px;
+    height: 130px;
+    top: 110px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    width: 150px;
+    margin: 0 auto;
+    margin-top: 5px;
+}
